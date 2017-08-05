@@ -1,0 +1,9 @@
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\bin\Debug\netcoreapp1.1\GameOne.deps.json
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\bin\Debug\netcoreapp1.1\GameOne.runtimeconfig.json
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\bin\Debug\netcoreapp1.1\GameOne.runtimeconfig.dev.json
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\bin\Debug\netcoreapp1.1\GameOne.dll
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\bin\Debug\netcoreapp1.1\GameOne.pdb
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\obj\Debug\netcoreapp1.1\GameOne.csprojResolveAssemblyReference.cache
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\obj\Debug\netcoreapp1.1\GameOne.AssemblyInfo.cs
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\obj\Debug\netcoreapp1.1\GameOne.dll
+c:\users\phill\documents\visual studio 2017\Projects\GameOne\GameOne\obj\Debug\netcoreapp1.1\GameOne.pdb
